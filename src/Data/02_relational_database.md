@@ -1,1 +1,1 @@
-![database.](img/relational database pic.png)
+![database.](img/rdp.png)
