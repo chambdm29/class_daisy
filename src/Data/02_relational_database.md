@@ -1,1 +1,1 @@
-![What is Database.](img/relational database pic.png)
+![database.](img/relational database pic.png)
